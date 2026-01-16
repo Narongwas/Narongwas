@@ -1,2 +1,2 @@
 # View my resume
-  -> [resume](./Resume_(5).pdf)
+  -> [resume](./Resume_5.pdf)
