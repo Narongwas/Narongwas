@@ -18,4 +18,4 @@
 # Tools
   - Git, GitHub, Vercel, MongoDB, Firebase, PostgreSQL, Docker
 # Resume
-  - [resume](./Updated_Resune.pdf)
+  - [resume](./Updated_Resume.pdf)
